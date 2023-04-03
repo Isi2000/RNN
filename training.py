@@ -10,7 +10,7 @@ model = Model(input_size=dict_size, output_size=dict_size, hidden_dim=12, n_laye
 model.to(device)
 
 #hyperpars
-n_epochs = 100
+n_epochs = 1000
 lr=0.01
 
 
