@@ -12,3 +12,15 @@ ONE HOT ENCODING: lo usi nel programma quindi devi capire cos'e'. Se un giorno r
 
 Hot one encoding e' un modo di trasformare il testo in numeri. Il computer e' contento di aver a che fare con dei numeri e anche se questo sistema non e' proprio il modo migliore di tutti e' abbastanza facile da essere sia comprensibile da subito che facilmente implementabile.
 
+ATTENZIONE!!!!!!!!!!!!!!!!!!!!!!!
+ATTENZIONE!!!!!!!!!!!!!!!!!!!!!!!
+ATTENZIONE!!!!!!!!!!!!!!!!!!!!!!!
+ATTENZIONE!!!!!!!!!!!!!!!!!!!!!!!
+ATTENZIONE!!!!!!!!!!!!!!!!!!!!!!!
+ATTENZIONE!!!!!!!!!!!!!!!!!!!!!!!
+HAI FATTO LA PORCATA DEGLI ASTERISCHI, SE NON CI STAI ATTENTO NON VA PIU' UNA SEGA DI NIENTE, IN TEORIA ORA TUTTI I FILE SU CUI STAI LAVORANDO IL TUO TRAINING LI CONSIDERA COME UN FILE UNICO
+ATTENZIONE!!!!!!!!!!!!!!!!!!!!!!!
+ATTENZIONE!!!!!!!!!!!!!!!!!!!!!!!
+ATTENZIONE!!!!!!!!!!!!!!!!!!!!!!!
+ATTENZIONE!!!!!!!!!!!!!!!!!!!!!!!
+ATTENZIONE!!!!!!!!!!!!!!!!!!!!!!!

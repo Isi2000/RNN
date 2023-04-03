@@ -3,8 +3,8 @@ from torch import nn
 import numpy as np
 
 
-from ez import input_seq, target_seq
-print(input_seq)
+from ez import *
+
 # torch.cuda.is_available() checks and returns a Boolean True if a GPU is available, else it'll return False
 is_cuda = torch.cuda.is_available()
 
@@ -30,8 +30,7 @@ class Model(nn.Module):
         self.fc = nn.Linear(hidden_dim, output_size)
 
     def init_hidden(self, batch_size):
-    """ This method generates the first hidden state of zeros which we'll use in the forward pass"""
-    #to me this look a bit simplistic
+        #to me this look a bit simplistic
         hidden = torch.zeros(self.n_layers, batch_size, self.hidden_dim)
         return hidden
 

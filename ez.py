@@ -13,7 +13,6 @@ text = ['hey how are you','good i am fine','have a nice day']
 chars = set(''.join(text))
 
 int2char = dict(enumerate(chars))
-print(int2char)
 char2int = {char: ind for ind, char in int2char.items()}
 
 #padding
@@ -39,7 +38,7 @@ for i in range(len(text)):
 for i in range(len(text)):
     input_seq[i] = [char2int[character] for character in input_seq[i]]
     target_seq[i] = [char2int[character] for character in target_seq[i]]
-print("Input Sequence: {}\nTarget Sequence: {}".format(input_seq[i], target_seq[i]))
+#print("Input Sequence: {}\nTarget Sequence: {}".format(input_seq[i], target_seq[i]))
     
 
 dict_size = len(char2int)
